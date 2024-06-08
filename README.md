@@ -43,7 +43,7 @@ Here's an example spec for [Lazy](https://github.com/folke/lazy.nvim), but you'r
 
 ```
 
-If you're not using lazy, you'll need to require and setup the plugin like so:
+If you're not using [Lazy](https://github.com/folke/lazy.nvim), you'll need to require and setup the plugin like so:
 
 ```lua
 -- init.lua
